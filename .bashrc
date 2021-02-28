@@ -1,0 +1,1 @@
+function rsync { . ~/BashScripts/rsyncFolders.sh ;}
